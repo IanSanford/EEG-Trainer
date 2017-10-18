@@ -1,0 +1,9 @@
+c:\users\ian\documents\visual studio 2015\Projects\EEGTrainer\EEGTrainer\bin\Debug\EEGTrainer.exe.config
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\bin\Debug\EEGTrainer.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\bin\Debug\EEGTrainer.pdb
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.Form1.resources
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.Properties.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.csproj.GenerateResource.Cache
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.exe
+C:\Users\Ian\Documents\Visual Studio 2015\Projects\EEGTrainer\EEGTrainer\obj\Debug\EEGTrainer.pdb
